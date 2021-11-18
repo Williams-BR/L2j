@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/skillTrees.xsd">
+	<skillTree type="subClassSkillTree">
+		<!-- Confirmed CT2.5 -->
+		<skill skillName="Emergent Ability - Attack" skillId="631" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Attack" skillId="631" skillLevel="2" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Attack" skillId="631" skillLevel="3" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Attack" skillId="631" skillLevel="4" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Attack" skillId="631" skillLevel="5" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Attack" skillId="631" skillLevel="6" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Defense" skillId="632" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Defense" skillId="632" skillLevel="2" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Defense" skillId="632" skillLevel="3" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Defense" skillId="632" skillLevel="4" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Defense" skillId="632" skillLevel="5" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Defense" skillId="632" skillLevel="6" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Empower" skillId="633" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Empower" skillId="633" skillLevel="2" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Empower" skillId="633" skillLevel="3" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Empower" skillId="633" skillLevel="4" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Empower" skillId="633" skillLevel="5" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Empower" skillId="633" skillLevel="6" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Magic Defense" skillId="634" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Magic Defense" skillId="634" skillLevel="2" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Magic Defense" skillId="634" skillLevel="3" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Magic Defense" skillId="634" skillLevel="4" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Magic Defense" skillId="634" skillLevel="5" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Emergent Ability - Magic Defense" skillId="634" skillLevel="6" getLevel="1">
+			<subClassConditions slot="1" lvl="65" />
+			<subClassConditions slot="2" lvl="65" />
+			<subClassConditions slot="3" lvl="65" />
+			<item id="10280" count="1" />
+		</skill>
+		<skill skillName="Master Ability - Defense" skillId="799" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10612" count="1" />
+		</skill>
+		<skill skillName="Master Ability - Defense" skillId="799" skillLevel="2" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10612" count="1" />
+		</skill>
+		<skill skillName="Master Ability - Defense" skillId="799" skillLevel="3" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10612" count="1" />
+		</skill>
+		<skill skillName="Master Ability - Magic Defense" skillId="800" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10612" count="1" />
+		</skill>
+		<skill skillName="Master Ability - Magic Defense" skillId="800" skillLevel="2" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10612" count="1" />
+		</skill>
+		<skill skillName="Master Ability - Magic Defense" skillId="800" skillLevel="3" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10612" count="1" />
+		</skill>
+		<skill skillName="Warrior Ability - Boost CP" skillId="801" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10281" count="1" />
+		</skill>
+		<skill skillName="Wizard Ability - Anti-magic" skillId="802" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10284" count="1" />
+		</skill>
+		<skill skillName="Healer Ability - Divine Protection" skillId="803" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10285" count="1" />
+		</skill>
+		<skill skillName="Knight Ability - Resist Critical" skillId="804" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10282" count="1" />
+		</skill>
+		<skill skillName="Master Ability - Attack" skillId="637" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10612" count="1" />
+		</skill>
+		<skill skillName="Master Ability - Empower" skillId="638" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10612" count="1" />
+		</skill>
+		<skill skillName="Master Ability - Casting" skillId="639" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10612" count="1" />
+		</skill>
+		<skill skillName="Master Ability - Focus" skillId="640" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10612" count="1" />
+		</skill>
+		<skill skillName="Knight Ability - Boost HP" skillId="641" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10282" count="1" />
+		</skill>
+		<skill skillName="Enchanter Ability - Boost Mana" skillId="642" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10287" count="1" />
+		</skill>
+		<skill skillName="Summoner Ability - Boost HP/MP" skillId="643" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10286" count="1" />
+		</skill>
+		<skill skillName="Rogue Ability - Evasion" skillId="644" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10283" count="1" />
+		</skill>
+		<skill skillName="Rogue Ability - Long Shot" skillId="645" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10283" count="1" />
+		</skill>
+		<skill skillName="Wizard Ability - Mana Gain" skillId="646" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10284" count="1" />
+		</skill>
+		<skill skillName="Enchanter Ability - Mana Recovery" skillId="647" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10287" count="1" />
+		</skill>
+		<skill skillName="Healer Ability - Prayer" skillId="648" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10285" count="1" />
+		</skill>
+		<skill skillName="Warrior Ability - Resist Trait" skillId="650" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10281" count="1" />
+		</skill>
+		<skill skillName="Summoner Ability - Resist Attribute" skillId="1489" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10286" count="1" />
+		</skill>
+		<skill skillName="Warrior Ability - Haste" skillId="651" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10281" count="1" />
+		</skill>
+		<skill skillName="Knight Ability - Defense" skillId="652" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10282" count="1" />
+		</skill>
+		<skill skillName="Rogue Ability - Critical Chance" skillId="653" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10283" count="1" />
+		</skill>
+		<skill skillName="Wizard Ability - Mana Steal" skillId="654" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10284" count="1" />
+		</skill>
+		<skill skillName="Enchanter Ability - Barrier" skillId="655" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10287" count="1" />
+		</skill>
+		<skill skillName="Healer Ability - Heal" skillId="1490" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10285" count="1" />
+		</skill>
+		<skill skillName="Summoner Ability - Spirit" skillId="1491" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="75" />
+			<subClassConditions slot="2" lvl="75" />
+			<subClassConditions slot="3" lvl="75" />
+			<item id="10286" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Warrior" skillId="656" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10289" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Warrior" skillId="656" skillLevel="2" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10289" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Warrior" skillId="656" skillLevel="3" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10289" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Knight" skillId="657" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10288" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Knight" skillId="657" skillLevel="2" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10288" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Knight" skillId="657" skillLevel="3" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10288" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Rogue" skillId="658" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10290" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Rogue" skillId="658" skillLevel="2" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10290" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Rogue" skillId="658" skillLevel="3" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10290" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Wizard" skillId="659" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10292" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Wizard" skillId="659" skillLevel="2" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10292" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Wizard" skillId="659" skillLevel="3" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10292" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Summoner" skillId="660" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10294" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Summoner" skillId="660" skillLevel="2" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10294" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Summoner" skillId="660" skillLevel="3" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10294" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Healer" skillId="661" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10291" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Healer" skillId="661" skillLevel="2" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10291" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Healer" skillId="661" skillLevel="3" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10291" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Enchanter" skillId="662" skillLevel="1" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10293" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Enchanter" skillId="662" skillLevel="2" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10293" count="1" />
+		</skill>
+		<skill skillName="Transform Divine Enchanter" skillId="662" skillLevel="3" getLevel="1">
+			<subClassConditions slot="1" lvl="80" />
+			<subClassConditions slot="2" lvl="80" />
+			<subClassConditions slot="3" lvl="80" />
+			<item id="10293" count="1" />
+		</skill>
+	</skillTree>
+</list>

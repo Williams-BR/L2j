@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawn name="GludioAirshipFieldSpawns">
+		<npc id="18782" x="-150107" y="254288" z="-185" heading="0" respawnDelay="780" />
+		<npc id="32629" x="-149929" y="254543" z="-187" heading="0" respawnDelay="60" />
+		<npc id="32629" x="-149909" y="254506" z="-187" heading="0" respawnDelay="60" />
+		<npc id="32614" x="-149649" y="255028" z="-80" heading="16384" respawnDelay="60" />
+		<npc id="32564" x="-149484" y="253680" z="-184" heading="16384" respawnDelay="60" />
+		<npc id="32609" x="-149360" y="252936" z="-136" heading="20771" respawnDelay="60" />
+		<npc id="32565" x="-149235" y="253680" z="-184" heading="16384" respawnDelay="60" />
+		<npc id="32615" x="-149067" y="255028" z="-80" heading="16384" respawnDelay="60" />
+		<npc id="32628" x="-148804" y="254521" z="-187" heading="0" respawnDelay="60" />
+		<npc id="32628" x="-148777" y="254544" z="-186" heading="0" respawnDelay="60" />
+		<npc id="32616" x="-148656" y="253841" z="-184" heading="24576" respawnDelay="60" />
+		<npc id="18782" x="-148656" y="254304" z="-185" heading="0" respawnDelay="420" />
+		<npc id="32632" x="16132" y="142821" z="-2696" heading="16384" respawnDelay="60" />
+		<npc id="32632" x="43648" y="-47742" z="-792" heading="50423" respawnDelay="60" />
+		<npc id="32632" x="82832" y="53088" z="-1488" heading="16384" respawnDelay="60" />
+		<npc id="32632" x="83659" y="148382" z="-3400" heading="32768" respawnDelay="60" />
+		<npc id="32632" x="87205" y="-143485" z="-1288" heading="16384" respawnDelay="60" />
+		<npc id="32632" x="111129" y="219189" z="-3536" heading="49151" respawnDelay="60" />
+		<npc id="32632" x="147100" y="25605" z="-2008" heading="16384" respawnDelay="60" />
+		<npc id="32632" x="147843" y="-55146" z="-2728" heading="49152" respawnDelay="60" />
+	</spawn>
+</list>

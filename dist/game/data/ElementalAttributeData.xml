@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/ElementalAttributeData.xsd">
+	<!-- Stone -->
+	<item id="9546" elemental="FIRE" type="STONE" />
+	<item id="9547" elemental="WATER" type="STONE" />
+	<item id="9549" elemental="WIND" type="STONE" />
+	<item id="9548" elemental="EARTH" type="STONE" />
+	<item id="9551" elemental="HOLY" type="STONE" />
+	<item id="9550" elemental="DARK" type="STONE" />
+
+	<!-- Rough Ore -->
+	<item id="10521" elemental="FIRE" type="ROUGH_ORE" />
+	<item id="10522" elemental="WATER" type="ROUGH_ORE" />
+	<item id="10524" elemental="WIND" type="ROUGH_ORE" />
+	<item id="10523" elemental="EARTH" type="ROUGH_ORE" />
+	<item id="10526" elemental="HOLY" type="ROUGH_ORE" />
+	<item id="10525" elemental="DARK" type="ROUGH_ORE" />
+
+	<!-- Crystal -->
+	<item id="9552" elemental="FIRE" type="CRYSTAL" />
+	<item id="9553" elemental="WATER" type="CRYSTAL" />
+	<item id="9555" elemental="WIND" type="CRYSTAL" />
+	<item id="9554" elemental="EARTH" type="CRYSTAL" />
+	<item id="9557" elemental="HOLY" type="CRYSTAL" />
+	<item id="9556" elemental="DARK" type="CRYSTAL" />
+
+	<!-- Jewel -->
+	<item id="9558" elemental="FIRE" type="JEWEL" />
+	<item id="9559" elemental="WATER" type="JEWEL" />
+	<item id="9561" elemental="WIND" type="JEWEL" />
+	<item id="9560" elemental="EARTH" type="JEWEL" />
+	<item id="9563" elemental="HOLY" type="JEWEL" />
+	<item id="9562" elemental="DARK" type="JEWEL" />
+
+	<!-- Not yet supported by client (Freya PTS) -->
+	<item id="9564" elemental="FIRE" type="ENERGY" />
+	<item id="9565" elemental="WATER" type="ENERGY" />
+	<item id="9567" elemental="WIND" type="ENERGY" />
+	<item id="9566" elemental="EARTH" type="ENERGY" />
+	<item id="9569" elemental="HOLY" type="ENERGY" />
+	<item id="9568" elemental="DARK" type="ENERGY" />
+</list>

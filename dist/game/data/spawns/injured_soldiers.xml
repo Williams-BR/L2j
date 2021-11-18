@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawn name="InjuredSoldiers">
+		<npc id="32738" x="-184867" y="186582" z="-15816" heading="12564" respawnDelay="60" /> <!-- Injured Soldier -->
+		<npc id="32738" x="-184822" y="179810" z="-15424" heading="39565" respawnDelay="60" /> <!-- Injured Soldier -->
+		<npc id="32738" x="-184735" y="179369" z="-10424" heading="50804" respawnDelay="60" /> <!-- Injured Soldier -->
+		<npc id="32738" x="-175193" y="179068" z="-10304" heading="27153" respawnDelay="60" /> <!-- Injured Soldier -->
+		<npc id="32738" x="-175144" y="178477" z="-15800" heading="52696" respawnDelay="60" /> <!-- Injured Soldier -->
+	</spawn>
+</list>

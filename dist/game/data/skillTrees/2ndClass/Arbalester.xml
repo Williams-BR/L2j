@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
+	<!-- Arbalester -->
+	<skillTree type="classSkillTree" classId="130" parentClassId="126">
+		<!-- Confirmed CT2.5 and Updated to H5 -->
+		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="1" getLevel="52" learnedByNpc="true">
+			<item id="8618" count="1" />
+		</skill>
+		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="2" getLevel="61" learnedByNpc="true">
+			<item id="8619" count="1" />
+		</skill>
+		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="3" getLevel="76" learnedByNpc="true">
+			<item id="8620" count="1" />
+		</skill>
+		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="4" getLevel="76" learnedByNpc="true">
+			<item id="8621" count="1" />
+		</skill>
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="9" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="10" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="11" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="14" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="15" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="16" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="19" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="20" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="21" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="1" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="2" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="3" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="9" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Real Target" skillId="522" skillLevel="1" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Binding Trap" skillId="518" skillLevel="1" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Shift Target" skillId="489" skillLevel="1" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Increase Range" skillId="486" skillLevel="2" getLevel="40" levelUpSp="35000" learnedByNpc="true" />
+		<skill skillName="Life to Soul" skillId="502" skillLevel="1" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="4" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="5" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="6" getLevel="40" levelUpSp="11000" learnedByNpc="true" />
+		<skill skillName="Critical Sense" skillId="626" skillLevel="1" getLevel="40" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="12" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="13" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="14" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="17" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="18" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="19" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="22" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="23" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="24" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="4" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="5" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="6" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="10" getLevel="43" levelUpSp="39000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="1" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="2" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="3" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Decoy" skillId="525" skillLevel="1" getLevel="43" levelUpSp="39000" learnedByNpc="true" />
+		<skill skillName="Dark Armor" skillId="481" skillLevel="2" getLevel="43" levelUpSp="39000" learnedByNpc="true" />
+		<skill skillName="Fire Trap" skillId="514" skillLevel="3" getLevel="43" levelUpSp="39000" learnedByNpc="true" />
+		<skill skillName="Create Special Bolt" skillId="621" skillLevel="1" getLevel="43" levelUpSp="39000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="7" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="8" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="9" getLevel="43" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Fast Recovery" skillId="832" skillLevel="1" getLevel="43" levelUpSp="39000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="15" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="16" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="17" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="20" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="21" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="22" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="25" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="26" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="27" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="7" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="8" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="9" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="11" getLevel="46" levelUpSp="50000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="1" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="2" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="3" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="4" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="5" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="6" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Detect Trap" skillId="470" skillLevel="4" getLevel="46" levelUpSp="50000" learnedByNpc="true" />
+		<skill skillName="Defuse Trap" skillId="471" skillLevel="4" getLevel="46" levelUpSp="50000" learnedByNpc="true" />
+		<skill skillName="Binding Trap" skillId="518" skillLevel="2" getLevel="46" levelUpSp="50000" learnedByNpc="true" />
+		<skill skillName="Soul Gathering" skillId="625" skillLevel="1" getLevel="46" levelUpSp="50000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="10" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="11" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="12" getLevel="46" levelUpSp="17000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="18" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="19" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="20" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="23" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="24" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="25" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="28" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="29" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="30" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="10" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="11" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="12" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="12" getLevel="49" levelUpSp="82000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="4" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="5" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="6" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="7" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="8" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="9" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Temptation" skillId="511" skillLevel="1" getLevel="49" levelUpSp="82000" learnedByNpc="true" />
+		<skill skillName="Poison Trap" skillId="515" skillLevel="1" getLevel="49" levelUpSp="82000" learnedByNpc="true" />
+		<skill skillName="Fire Trap" skillId="514" skillLevel="4" getLevel="49" levelUpSp="82000" learnedByNpc="true" />
+		<skill skillName="Life to Soul" skillId="502" skillLevel="2" getLevel="49" levelUpSp="82000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="13" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="14" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="15" getLevel="49" levelUpSp="27000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="21" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="22" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="23" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="26" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="27" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="28" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="31" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="32" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="33" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="13" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="14" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="15" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="13" getLevel="52" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="7" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="8" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="9" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="10" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="11" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="12" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Decoy" skillId="525" skillLevel="2" getLevel="52" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Real Target" skillId="522" skillLevel="2" getLevel="52" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Binding Trap" skillId="518" skillLevel="3" getLevel="52" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Slow Trap" skillId="516" skillLevel="1" getLevel="52" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Quiver of Bolts: B Grade" skillId="620" skillLevel="1" getLevel="52" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Critical Sense" skillId="626" skillLevel="2" getLevel="52" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="16" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="17" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="18" getLevel="52" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Ultimate Escape" skillId="622" skillLevel="2" getLevel="52" levelUpSp="100000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="24" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="25" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="26" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="29" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="30" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="31" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="34" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="35" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="36" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="16" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="17" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="18" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="14" getLevel="55" levelUpSp="157000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="10" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="11" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="12" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="13" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="14" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="15" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Detect Trap" skillId="470" skillLevel="5" getLevel="55" levelUpSp="157000" learnedByNpc="true" />
+		<skill skillName="Defuse Trap" skillId="471" skillLevel="5" getLevel="55" levelUpSp="157000" learnedByNpc="true" />
+		<skill skillName="Flash Trap" skillId="517" skillLevel="1" getLevel="55" levelUpSp="157000" learnedByNpc="true" />
+		<skill skillName="Poison Trap" skillId="515" skillLevel="2" getLevel="55" levelUpSp="157000" learnedByNpc="true" />
+		<skill skillName="Fire Trap" skillId="514" skillLevel="5" getLevel="55" levelUpSp="157000" learnedByNpc="true" />
+		<skill skillName="Fast Shot" skillId="490" skillLevel="2" getLevel="55" levelUpSp="157000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="19" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="20" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="21" getLevel="55" levelUpSp="52000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="27" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="28" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="29" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="32" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="33" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="34" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="37" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="38" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="39" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="19" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="20" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="21" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="15" getLevel="58" levelUpSp="185000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="13" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="14" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="15" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="16" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="17" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="18" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Binding Trap" skillId="518" skillLevel="4" getLevel="58" levelUpSp="185000" learnedByNpc="true" />
+		<skill skillName="Slow Trap" skillId="516" skillLevel="2" getLevel="58" levelUpSp="185000" learnedByNpc="true" />
+		<skill skillName="Life to Soul" skillId="502" skillLevel="3" getLevel="58" levelUpSp="185000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="22" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="23" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="24" getLevel="58" levelUpSp="62000" learnedByNpc="true" />
+		<skill skillName="Soul Barrier" skillId="1514" skillLevel="1" getLevel="58" levelUpSp="185000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="30" getLevel="60" levelUpSp="97000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="31" getLevel="60" levelUpSp="97000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="35" getLevel="60" levelUpSp="97000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="36" getLevel="60" levelUpSp="97000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="40" getLevel="60" levelUpSp="97000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="41" getLevel="60" levelUpSp="97000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="22" getLevel="60" levelUpSp="97000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="23" getLevel="60" levelUpSp="97000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="16" getLevel="60" levelUpSp="193000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="16" getLevel="60" levelUpSp="97000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="17" getLevel="60" levelUpSp="97000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="19" getLevel="60" levelUpSp="97000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="20" getLevel="60" levelUpSp="97000" learnedByNpc="true" />
+		<skill skillName="Decoy" skillId="525" skillLevel="3" getLevel="60" levelUpSp="193000" learnedByNpc="true" />
+		<skill skillName="Sharpshooting" skillId="521" skillLevel="1" getLevel="60" levelUpSp="193000" learnedByNpc="true" />
+		<skill skillName="Flash Trap" skillId="517" skillLevel="2" getLevel="60" levelUpSp="193000" learnedByNpc="true" />
+		<skill skillName="Poison Trap" skillId="515" skillLevel="3" getLevel="60" levelUpSp="193000" learnedByNpc="true" />
+		<skill skillName="Fire Trap" skillId="514" skillLevel="6" getLevel="60" levelUpSp="193000" learnedByNpc="true" />
+		<skill skillName="Quiver of Bolts: A Grade" skillId="519" skillLevel="1" getLevel="60" levelUpSp="193000" learnedByNpc="true" />
+		<skill skillName="Critical Sense" skillId="626" skillLevel="3" getLevel="60" levelUpSp="193000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="25" getLevel="60" levelUpSp="97000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="26" getLevel="60" levelUpSp="97000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="32" getLevel="62" levelUpSp="140000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="33" getLevel="62" levelUpSp="140000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="37" getLevel="62" levelUpSp="140000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="38" getLevel="62" levelUpSp="140000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="42" getLevel="62" levelUpSp="140000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="43" getLevel="62" levelUpSp="140000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="24" getLevel="62" levelUpSp="140000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="25" getLevel="62" levelUpSp="140000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="17" getLevel="62" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="18" getLevel="62" levelUpSp="140000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="19" getLevel="62" levelUpSp="140000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="21" getLevel="62" levelUpSp="140000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="22" getLevel="62" levelUpSp="140000" learnedByNpc="true" />
+		<skill skillName="Create Dark Seed" skillId="513" skillLevel="1" getLevel="62" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Imbue Dark Seed" skillId="523" skillLevel="1" getLevel="62" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Sharpshooting" skillId="521" skillLevel="2" getLevel="62" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Real Target" skillId="522" skillLevel="3" getLevel="62" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Binding Trap" skillId="518" skillLevel="5" getLevel="62" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Slow Trap" skillId="516" skillLevel="3" getLevel="62" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="27" getLevel="62" levelUpSp="140000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="28" getLevel="62" levelUpSp="140000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="34" getLevel="64" levelUpSp="160000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="35" getLevel="64" levelUpSp="160000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="39" getLevel="64" levelUpSp="160000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="40" getLevel="64" levelUpSp="160000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="44" getLevel="64" levelUpSp="160000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="45" getLevel="64" levelUpSp="160000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="26" getLevel="64" levelUpSp="160000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="27" getLevel="64" levelUpSp="160000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="18" getLevel="64" levelUpSp="320000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="20" getLevel="64" levelUpSp="160000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="21" getLevel="64" levelUpSp="160000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="23" getLevel="64" levelUpSp="160000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="24" getLevel="64" levelUpSp="160000" learnedByNpc="true" />
+		<skill skillName="Imbue Dark Seed" skillId="523" skillLevel="2" getLevel="64" levelUpSp="320000" learnedByNpc="true" />
+		<skill skillName="Cure Dark Seed" skillId="524" skillLevel="1" getLevel="64" levelUpSp="320000" learnedByNpc="true" />
+		<skill skillName="Sharpshooting" skillId="521" skillLevel="3" getLevel="64" levelUpSp="320000" learnedByNpc="true" />
+		<skill skillName="Flash Trap" skillId="517" skillLevel="3" getLevel="64" levelUpSp="320000" learnedByNpc="true" />
+		<skill skillName="Poison Trap" skillId="515" skillLevel="4" getLevel="64" levelUpSp="320000" learnedByNpc="true" />
+		<skill skillName="Fire Trap" skillId="514" skillLevel="7" getLevel="64" levelUpSp="320000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="29" getLevel="64" levelUpSp="160000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="30" getLevel="64" levelUpSp="160000" learnedByNpc="true" />
+		<skill skillName="Oblivion Trap" skillId="836" skillLevel="1" getLevel="64" levelUpSp="160000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="36" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="37" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="41" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="42" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="46" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="47" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="28" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="29" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="19" getLevel="66" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="22" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="23" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="25" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="26" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Deadly Roulette" skillId="510" skillLevel="1" getLevel="66" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Imbue Dark Seed" skillId="523" skillLevel="3" getLevel="66" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Sharpshooting" skillId="521" skillLevel="4" getLevel="66" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Decoy" skillId="525" skillLevel="4" getLevel="66" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Detect Trap" skillId="470" skillLevel="6" getLevel="66" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Defuse Trap" skillId="471" skillLevel="6" getLevel="66" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Binding Trap" skillId="518" skillLevel="6" getLevel="66" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Slow Trap" skillId="516" skillLevel="4" getLevel="66" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Life to Soul" skillId="502" skillLevel="4" getLevel="66" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Critical Sense" skillId="626" skillLevel="4" getLevel="66" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="31" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="32" getLevel="66" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Soul Cleanse" skillId="1510" skillLevel="1" getLevel="66" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="38" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="39" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="43" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="44" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="48" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="49" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="30" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="31" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="20" getLevel="68" levelUpSp="490000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="24" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="25" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="27" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="28" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Deadly Roulette" skillId="510" skillLevel="2" getLevel="68" levelUpSp="490000" learnedByNpc="true" />
+		<skill skillName="Imbue Dark Seed" skillId="523" skillLevel="4" getLevel="68" levelUpSp="490000" learnedByNpc="true" />
+		<skill skillName="Sharpshooting" skillId="521" skillLevel="5" getLevel="68" levelUpSp="490000" learnedByNpc="true" />
+		<skill skillName="Flash Trap" skillId="517" skillLevel="4" getLevel="68" levelUpSp="490000" learnedByNpc="true" />
+		<skill skillName="Poison Trap" skillId="515" skillLevel="5" getLevel="68" levelUpSp="490000" learnedByNpc="true" />
+		<skill skillName="Fire Trap" skillId="514" skillLevel="8" getLevel="68" levelUpSp="490000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="33" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="34" getLevel="68" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Oblivion Trap" skillId="836" skillLevel="2" getLevel="68" levelUpSp="490000" learnedByNpc="true" />
+		<skill skillName="Imbue Seed of Destruction" skillId="835" skillLevel="1" getLevel="68" levelUpSp="490000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="40" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="41" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="45" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="46" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="50" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="51" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="32" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="33" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="21" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="26" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="27" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="29" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="30" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Deadly Roulette" skillId="510" skillLevel="3" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
+		<skill skillName="Imbue Dark Seed" skillId="523" skillLevel="5" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
+		<skill skillName="Decoy" skillId="525" skillLevel="5" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
+		<skill skillName="Sharpshooting" skillId="521" skillLevel="6" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
+		<skill skillName="Real Target" skillId="522" skillLevel="4" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
+		<skill skillName="Binding Trap" skillId="518" skillLevel="7" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
+		<skill skillName="Slow Trap" skillId="516" skillLevel="5" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="35" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="36" getLevel="70" levelUpSp="290000" learnedByNpc="true" />
+		<skill skillName="Imbue Seed of Destruction" skillId="835" skillLevel="2" getLevel="70" levelUpSp="580000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="42" getLevel="72" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="43" getLevel="72" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="47" getLevel="72" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="48" getLevel="72" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="52" getLevel="72" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="53" getLevel="72" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="34" getLevel="72" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="35" getLevel="72" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="22" getLevel="72" levelUpSp="710000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="28" getLevel="72" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="29" getLevel="72" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="31" getLevel="72" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="32" getLevel="72" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Deadly Roulette" skillId="510" skillLevel="4" getLevel="72" levelUpSp="710000" learnedByNpc="true" />
+		<skill skillName="Imbue Dark Seed" skillId="523" skillLevel="6" getLevel="72" levelUpSp="710000" learnedByNpc="true" />
+		<skill skillName="Sharpshooting" skillId="521" skillLevel="7" getLevel="72" levelUpSp="710000" learnedByNpc="true" />
+		<skill skillName="Flash Trap" skillId="517" skillLevel="5" getLevel="72" levelUpSp="710000" learnedByNpc="true" />
+		<skill skillName="Poison Trap" skillId="515" skillLevel="6" getLevel="72" levelUpSp="710000" learnedByNpc="true" />
+		<skill skillName="Fire Trap" skillId="514" skillLevel="9" getLevel="72" levelUpSp="710000" learnedByNpc="true" />
+		<skill skillName="Life to Soul" skillId="502" skillLevel="5" getLevel="72" levelUpSp="710000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="37" getLevel="72" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="38" getLevel="72" levelUpSp="350000" learnedByNpc="true" />
+		<skill skillName="Oblivion Trap" skillId="836" skillLevel="3" getLevel="72" levelUpSp="710000" learnedByNpc="true" />
+		<skill skillName="Imbue Seed of Destruction" skillId="835" skillLevel="3" getLevel="72" levelUpSp="710000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="44" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Crossbow Mastery" skillId="473" skillLevel="45" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="49" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="50" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="54" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="55" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="36" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Twin Shot" skillId="507" skillLevel="37" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="23" getLevel="74" levelUpSp="1400000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="30" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Rising Shot" skillId="508" skillLevel="31" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="33" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Bleeding Shot" skillId="509" skillLevel="34" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Deadly Roulette" skillId="510" skillLevel="5" getLevel="74" levelUpSp="1400000" learnedByNpc="true" />
+		<skill skillName="Imbue Dark Seed" skillId="523" skillLevel="7" getLevel="74" levelUpSp="1400000" learnedByNpc="true" />
+		<skill skillName="Decoy" skillId="525" skillLevel="6" getLevel="74" levelUpSp="1400000" learnedByNpc="true" />
+		<skill skillName="Sharpshooting" skillId="521" skillLevel="8" getLevel="74" levelUpSp="1400000" learnedByNpc="true" />
+		<skill skillName="Detect Trap" skillId="470" skillLevel="7" getLevel="74" levelUpSp="1400000" learnedByNpc="true" />
+		<skill skillName="Defuse Trap" skillId="471" skillLevel="7" getLevel="74" levelUpSp="1400000" learnedByNpc="true" />
+		<skill skillName="Binding Trap" skillId="518" skillLevel="8" getLevel="74" levelUpSp="1400000" learnedByNpc="true" />
+		<skill skillName="Slow Trap" skillId="516" skillLevel="6" getLevel="74" levelUpSp="1400000" learnedByNpc="true" />
+		<skill skillName="Quiver of Bolts: S Grade" skillId="520" skillLevel="1" getLevel="74" levelUpSp="1400000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="39" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Soul Shock" skillId="627" skillLevel="40" getLevel="74" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Imbue Seed of Destruction" skillId="835" skillLevel="4" getLevel="74" levelUpSp="1400000" learnedByNpc="true" />
+	</skillTree>
+</list>

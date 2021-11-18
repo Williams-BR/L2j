@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
+	<!-- Inspector -->
+	<skillTree type="classSkillTree" classId="135" parentClassId="126">
+		<!-- Confirmed CT2.5 and Updated to H5 -->
+		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="1" getLevel="52" learnedByNpc="true">
+			<item id="8618" count="1" />
+		</skill>
+		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="2" getLevel="61" learnedByNpc="true">
+			<item id="8619" count="1" />
+		</skill>
+		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="3" getLevel="76" learnedByNpc="true">
+			<item id="8620" count="1" />
+		</skill>
+		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="4" getLevel="76" learnedByNpc="true">
+			<item id="8621" count="1" />
+		</skill>
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="9" getLevel="40" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="10" getLevel="40" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="11" getLevel="40" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="14" getLevel="40" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="15" getLevel="40" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="16" getLevel="40" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="19" getLevel="40" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="20" getLevel="40" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="21" getLevel="40" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="9" getLevel="40" levelUpSp="39000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="1" getLevel="40" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="2" getLevel="40" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="3" getLevel="40" levelUpSp="13000" learnedByNpc="true" />
+		<skill skillName="Appetite for Destruction" skillId="1476" skillLevel="1" getLevel="40" levelUpSp="39000" learnedByNpc="true" />
+		<skill skillName="Restoration" skillId="1487" skillLevel="1" getLevel="40" levelUpSp="39000" learnedByNpc="true" />
+		<skill skillName="Life to Soul" skillId="502" skillLevel="1" getLevel="40" levelUpSp="39000" learnedByNpc="true" />
+		<skill skillName="Expert Casting" skillId="1527" skillLevel="1" getLevel="40" levelUpSp="39000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="12" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="13" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="14" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="17" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="18" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="19" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="22" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="23" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="24" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="10" getLevel="43" levelUpSp="58000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="4" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="5" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="6" getLevel="43" levelUpSp="19000" learnedByNpc="true" />
+		<skill skillName="Oblivion" skillId="1481" skillLevel="1" getLevel="43" levelUpSp="58000" learnedByNpc="true" />
+		<skill skillName="Dark Armor" skillId="481" skillLevel="2" getLevel="43" levelUpSp="58000" learnedByNpc="true" />
+		<skill skillName="Critical Sense" skillId="626" skillLevel="1" getLevel="43" levelUpSp="58000" learnedByNpc="true" />
+		<skill skillName="Fast Recovery" skillId="832" skillLevel="1" getLevel="43" levelUpSp="58000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="15" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="16" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="17" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="20" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="21" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="22" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="25" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="26" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="27" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="11" getLevel="46" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="7" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="8" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="9" getLevel="46" levelUpSp="22000" learnedByNpc="true" />
+		<skill skillName="Thin Skin" skillId="1483" skillLevel="1" getLevel="46" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Restoration" skillId="1487" skillLevel="2" getLevel="46" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Protection Instinct" skillId="1478" skillLevel="1" getLevel="46" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Soul Gathering" skillId="625" skillLevel="1" getLevel="46" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="18" getLevel="49" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="19" getLevel="49" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="20" getLevel="49" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="23" getLevel="49" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="24" getLevel="49" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="25" getLevel="49" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="28" getLevel="49" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="29" getLevel="49" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="30" getLevel="49" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="12" getLevel="49" levelUpSp="98000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="10" getLevel="49" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="11" getLevel="49" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="12" getLevel="49" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="1" getLevel="49" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="2" getLevel="49" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="3" getLevel="49" levelUpSp="33000" learnedByNpc="true" />
+		<skill skillName="Appetite for Destruction" skillId="1476" skillLevel="2" getLevel="49" levelUpSp="98000" learnedByNpc="true" />
+		<skill skillName="Oblivion" skillId="1481" skillLevel="2" getLevel="49" levelUpSp="98000" learnedByNpc="true" />
+		<skill skillName="Restoration Impact" skillId="1488" skillLevel="1" getLevel="49" levelUpSp="98000" learnedByNpc="true" />
+		<skill skillName="Life to Soul" skillId="502" skillLevel="2" getLevel="49" levelUpSp="98000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="21" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="22" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="23" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="26" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="27" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="28" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="31" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="32" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="33" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="13" getLevel="52" levelUpSp="137000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="13" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="14" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="15" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="4" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="5" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="6" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="1" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="2" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="3" getLevel="52" levelUpSp="45000" learnedByNpc="true" />
+		<skill skillName="Vampiric Impulse" skillId="1477" skillLevel="1" getLevel="52" levelUpSp="137000" learnedByNpc="true" />
+		<skill skillName="Thin Skin" skillId="1483" skillLevel="2" getLevel="52" levelUpSp="137000" learnedByNpc="true" />
+		<skill skillName="Restoration" skillId="1487" skillLevel="3" getLevel="52" levelUpSp="137000" learnedByNpc="true" />
+		<skill skillName="Critical Sense" skillId="626" skillLevel="2" getLevel="52" levelUpSp="137000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="24" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="25" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="26" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="29" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="30" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="31" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="34" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="35" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="36" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="14" getLevel="55" levelUpSp="244000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="16" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="17" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="18" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="7" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="8" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="9" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="4" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="5" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="6" getLevel="55" levelUpSp="81000" learnedByNpc="true" />
+		<skill skillName="Magic Impulse" skillId="1479" skillLevel="1" getLevel="55" levelUpSp="244000" learnedByNpc="true" />
+		<skill skillName="Oblivion" skillId="1481" skillLevel="3" getLevel="55" levelUpSp="244000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="27" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="28" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="29" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="32" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="33" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="34" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="37" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="38" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="39" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="15" getLevel="58" levelUpSp="200000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="19" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="20" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="21" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="10" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="11" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="12" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="7" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="8" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="9" getLevel="58" levelUpSp="67000" learnedByNpc="true" />
+		<skill skillName="Appetite for Destruction" skillId="1476" skillLevel="3" getLevel="58" levelUpSp="200000" learnedByNpc="true" />
+		<skill skillName="Thin Skin" skillId="1483" skillLevel="3" getLevel="58" levelUpSp="200000" learnedByNpc="true" />
+		<skill skillName="Restoration" skillId="1487" skillLevel="4" getLevel="58" levelUpSp="200000" learnedByNpc="true" />
+		<skill skillName="Life to Soul" skillId="502" skillLevel="3" getLevel="58" levelUpSp="200000" learnedByNpc="true" />
+		<skill skillName="Painkiller" skillId="837" skillLevel="1" getLevel="58" levelUpSp="200000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="30" getLevel="60" levelUpSp="121000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="31" getLevel="60" levelUpSp="121000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="35" getLevel="60" levelUpSp="121000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="36" getLevel="60" levelUpSp="121000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="40" getLevel="60" levelUpSp="121000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="41" getLevel="60" levelUpSp="121000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="16" getLevel="60" levelUpSp="242000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="22" getLevel="60" levelUpSp="121000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="23" getLevel="60" levelUpSp="121000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="13" getLevel="60" levelUpSp="121000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="14" getLevel="60" levelUpSp="121000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="10" getLevel="60" levelUpSp="121000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="11" getLevel="60" levelUpSp="121000" learnedByNpc="true" />
+		<skill skillName="Oblivion" skillId="1481" skillLevel="4" getLevel="60" levelUpSp="241000" learnedByNpc="true" />
+		<skill skillName="Enervation" skillId="1484" skillLevel="1" getLevel="60" levelUpSp="241000" learnedByNpc="true" />
+		<skill skillName="Restoration Impact" skillId="1488" skillLevel="2" getLevel="60" levelUpSp="241000" learnedByNpc="true" />
+		<skill skillName="Protection Instinct" skillId="1478" skillLevel="2" getLevel="60" levelUpSp="241000" learnedByNpc="true" />
+		<skill skillName="Critical Sense" skillId="626" skillLevel="3" getLevel="60" levelUpSp="241000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="32" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="33" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="37" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="38" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="42" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="43" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="17" getLevel="62" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="24" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="25" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="15" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="16" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="12" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="13" getLevel="62" levelUpSp="180000" learnedByNpc="true" />
+		<skill skillName="Magic Impulse" skillId="1479" skillLevel="2" getLevel="62" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Thin Skin" skillId="1483" skillLevel="4" getLevel="62" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Weak Constitution" skillId="1482" skillLevel="1" getLevel="62" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Restoration" skillId="1487" skillLevel="5" getLevel="62" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="34" getLevel="64" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="35" getLevel="64" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="39" getLevel="64" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="40" getLevel="64" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="44" getLevel="64" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="45" getLevel="64" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="18" getLevel="64" levelUpSp="480000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="26" getLevel="64" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="27" getLevel="64" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="17" getLevel="64" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="18" getLevel="64" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="14" getLevel="64" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="15" getLevel="64" levelUpSp="240000" learnedByNpc="true" />
+		<skill skillName="Vampiric Impulse" skillId="1477" skillLevel="2" getLevel="64" levelUpSp="480000" learnedByNpc="true" />
+		<skill skillName="Oblivion" skillId="1481" skillLevel="5" getLevel="64" levelUpSp="480000" learnedByNpc="true" />
+		<skill skillName="Enervation" skillId="1484" skillLevel="2" getLevel="64" levelUpSp="480000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="36" getLevel="66" levelUpSp="250000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="37" getLevel="66" levelUpSp="250000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="41" getLevel="66" levelUpSp="250000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="42" getLevel="66" levelUpSp="250000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="46" getLevel="66" levelUpSp="250000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="47" getLevel="66" levelUpSp="250000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="19" getLevel="66" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="28" getLevel="66" levelUpSp="250000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="29" getLevel="66" levelUpSp="250000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="19" getLevel="66" levelUpSp="250000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="20" getLevel="66" levelUpSp="250000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="16" getLevel="66" levelUpSp="250000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="17" getLevel="66" levelUpSp="250000" learnedByNpc="true" />
+		<skill skillName="Thin Skin" skillId="1483" skillLevel="5" getLevel="66" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Weak Constitution" skillId="1482" skillLevel="2" getLevel="66" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Restoration" skillId="1487" skillLevel="6" getLevel="66" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Life to Soul" skillId="502" skillLevel="4" getLevel="66" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Spite" skillId="1485" skillLevel="1" getLevel="66" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Critical Sense" skillId="626" skillLevel="4" getLevel="66" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Soul Cleanse" skillId="1510" skillLevel="1" getLevel="66" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="38" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="39" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="43" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="44" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="48" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="49" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="20" getLevel="68" levelUpSp="650000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="30" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="31" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="21" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="22" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="18" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="19" getLevel="68" levelUpSp="330000" learnedByNpc="true" />
+		<skill skillName="Magic Impulse" skillId="1479" skillLevel="3" getLevel="68" levelUpSp="650000" learnedByNpc="true" />
+		<skill skillName="Oblivion" skillId="1481" skillLevel="6" getLevel="68" levelUpSp="650000" learnedByNpc="true" />
+		<skill skillName="Enervation" skillId="1484" skillLevel="3" getLevel="68" levelUpSp="650000" learnedByNpc="true" />
+		<skill skillName="Mental Impoverish" skillId="1486" skillLevel="1" getLevel="68" levelUpSp="650000" learnedByNpc="true" />
+		<skill skillName="Restoration Impact" skillId="1488" skillLevel="3" getLevel="68" levelUpSp="650000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="40" getLevel="70" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="41" getLevel="70" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="45" getLevel="70" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="46" getLevel="70" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="50" getLevel="70" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="51" getLevel="70" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="21" getLevel="70" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="32" getLevel="70" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="33" getLevel="70" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="23" getLevel="70" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="24" getLevel="70" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="20" getLevel="70" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="21" getLevel="70" levelUpSp="360000" learnedByNpc="true" />
+		<skill skillName="Soul Harmony" skillId="1480" skillLevel="1" getLevel="70" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Thin Skin" skillId="1483" skillLevel="6" getLevel="70" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Weak Constitution" skillId="1482" skillLevel="3" getLevel="70" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Mental Impoverish" skillId="1486" skillLevel="2" getLevel="70" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Restoration" skillId="1487" skillLevel="7" getLevel="70" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Spite" skillId="1485" skillLevel="2" getLevel="70" levelUpSp="720000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="42" getLevel="72" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="43" getLevel="72" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="47" getLevel="72" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="48" getLevel="72" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="52" getLevel="72" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="53" getLevel="72" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="22" getLevel="72" levelUpSp="1000000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="34" getLevel="72" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="35" getLevel="72" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="25" getLevel="72" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="26" getLevel="72" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="22" getLevel="72" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="23" getLevel="72" levelUpSp="500000" learnedByNpc="true" />
+		<skill skillName="Vampiric Impulse" skillId="1477" skillLevel="3" getLevel="72" levelUpSp="1000000" learnedByNpc="true" />
+		<skill skillName="Oblivion" skillId="1481" skillLevel="7" getLevel="72" levelUpSp="1000000" learnedByNpc="true" />
+		<skill skillName="Enervation" skillId="1484" skillLevel="4" getLevel="72" levelUpSp="1000000" learnedByNpc="true" />
+		<skill skillName="Mental Impoverish" skillId="1486" skillLevel="3" getLevel="72" levelUpSp="1000000" learnedByNpc="true" />
+		<skill skillName="Life to Soul" skillId="502" skillLevel="5" getLevel="72" levelUpSp="1000000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="44" getLevel="74" levelUpSp="1100000" learnedByNpc="true" />
+		<skill skillName="Rapier Mastery" skillId="474" skillLevel="45" getLevel="74" levelUpSp="1100000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="49" getLevel="74" levelUpSp="1100000" learnedByNpc="true" />
+		<skill skillName="Light Armor Mastery" skillId="465" skillLevel="50" getLevel="74" levelUpSp="1100000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="54" getLevel="74" levelUpSp="1100000" learnedByNpc="true" />
+		<skill skillName="Magic Immunity" skillId="466" skillLevel="55" getLevel="74" levelUpSp="1100000" learnedByNpc="true" />
+		<skill skillName="Soul Mastery" skillId="467" skillLevel="23" getLevel="74" levelUpSp="2200000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="36" getLevel="74" levelUpSp="1100000" learnedByNpc="true" />
+		<skill skillName="Triple Thrust" skillId="504" skillLevel="37" getLevel="74" levelUpSp="1100000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="27" getLevel="74" levelUpSp="1100000" learnedByNpc="true" />
+		<skill skillName="Shining Edge" skillId="505" skillLevel="28" getLevel="74" levelUpSp="1100000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="24" getLevel="74" levelUpSp="1100000" learnedByNpc="true" />
+		<skill skillName="Spread Wing" skillId="492" skillLevel="25" getLevel="74" levelUpSp="1100000" learnedByNpc="true" />
+		<skill skillName="Weak Constitution" skillId="1482" skillLevel="4" getLevel="74" levelUpSp="2200000" learnedByNpc="true" />
+		<skill skillName="Mental Impoverish" skillId="1486" skillLevel="4" getLevel="74" levelUpSp="2200000" learnedByNpc="true" />
+		<skill skillName="Restoration" skillId="1487" skillLevel="8" getLevel="74" levelUpSp="2200000" learnedByNpc="true" />
+		<skill skillName="Spite" skillId="1485" skillLevel="3" getLevel="74" levelUpSp="2200000" learnedByNpc="true" />
+
+		<!-- Forgotten Scrolls -->
+		<skill skillName="Aura Bird - Falcon" skillId="841" skillLevel="1" getLevel="75" learnedByFS="true" />
+		<skill skillName="Aura Bird - Owl" skillId="842" skillLevel="1" getLevel="75" learnedByFS="true" />
+		<skill skillName="Final Flying Form" skillId="840" skillLevel="1" getLevel="79" learnedByFS="true" />
+
+		<!-- HighFive new -->
+		<skill skillName="Thin Skin" skillId="1483" skillLevel="7" getLevel="74" levelUpSp="2200000" learnedByNpc="true" />
+	</skillTree>
+</list>

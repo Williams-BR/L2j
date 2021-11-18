@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="dist/libs/mariadb-java-client-2.7.1.jar" sourcepath="dist/libs/mariadb-java-client-2.7.1-sources.jar"/>
+	<classpathentry kind="lib" path="dist/libs/netty-buffer-4.1.69.Final.jar" sourcepath="dist/libs/netty-buffer-4.1.69.Final-sources.jar"/>
+	<classpathentry kind="lib" path="dist/libs/netty-codec-4.1.69.Final.jar" sourcepath="dist/libs/netty-codec-4.1.69.Final-sources.jar"/>
+	<classpathentry kind="lib" path="dist/libs/netty-common-4.1.69.Final.jar" sourcepath="dist/libs/netty-common-4.1.69.Final-sources.jar"/>
+	<classpathentry kind="lib" path="dist/libs/netty-handler-4.1.69.Final.jar" sourcepath="dist/libs/netty-handler-4.1.69.Final-sources.jar"/>
+	<classpathentry kind="lib" path="dist/libs/netty-transport-4.1.69.Final.jar" sourcepath="dist/libs/netty-transport-4.1.69.Final-sources.jar"/>
+	<classpathentry including="**/*.java" kind="src" path="dist/game/data/scripts"/>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

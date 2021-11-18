@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/spawns.xsd">
+	<spawn name="KamaelGuildSpawns">
+		<npc id="32194" x="-84773" y="153134" z="-3160" heading="16384" respawnDelay="60" />
+		<npc id="32193" x="-84734" y="153122" z="-3160" heading="8489" respawnDelay="60" />
+		<npc id="32195" x="-84697" y="153134" z="-3160" heading="16384" respawnDelay="60" />
+		<npc id="32198" x="-13565" y="125562" z="-3128" heading="49151" respawnDelay="60" />
+		<npc id="32196" x="-13527" y="125585" z="-3128" heading="50160" respawnDelay="60" />
+		<npc id="32197" x="-13489" y="125562" z="-3128" heading="49151" respawnDelay="60" />
+		<npc id="32199" x="16259" y="146282" z="-3096" heading="62497" respawnDelay="60" />
+		<npc id="32200" x="16279" y="146242" z="-3096" heading="63319" respawnDelay="60" />
+		<npc id="32201" x="16292" y="146310" z="-3096" heading="63319" respawnDelay="60" />
+		<npc id="32231" x="42983" y="-51691" z="-776" heading="16384" respawnDelay="60" />
+		<npc id="32229" x="43021" y="-51704" z="-776" heading="20480" respawnDelay="60" />
+		<npc id="32230" x="43070" y="-51683" z="-776" heading="20480" respawnDelay="60" />
+		<npc id="32232" x="43090" y="-51647" z="-776" heading="24576" respawnDelay="60" />
+		<npc id="32216" x="81004" y="150734" z="-3512" heading="39915" respawnDelay="60" />
+		<npc id="32213" x="81041" y="150731" z="-3512" heading="42594" respawnDelay="60" />
+		<npc id="32215" x="81061" y="150669" z="-3512" heading="39915" respawnDelay="60" />
+		<npc id="32214" x="81066" y="150706" z="-3512" heading="39116" respawnDelay="60" />
+		<npc id="32207" x="83658" y="54421" z="-1512" heading="32768" respawnDelay="60" />
+		<npc id="32208" x="83658" y="54506" z="-1512" heading="32768" respawnDelay="60" />
+		<npc id="32205" x="83680" y="54448" z="-1512" heading="32183" respawnDelay="60" />
+		<npc id="32206" x="83680" y="54480" z="-1512" heading="32768" respawnDelay="60" />
+		<npc id="32203" x="90380" y="-144353" z="-1520" heading="16376" respawnDelay="60" />
+		<npc id="32204" x="90408" y="-144246" z="-1520" heading="42660" respawnDelay="60" />
+		<npc id="32233" x="90415" y="-144342" z="-1520" heading="26716" respawnDelay="60" />
+		<npc id="32234" x="90438" y="-144275" z="-1520" heading="33580" respawnDelay="60" />
+		<npc id="32202" x="90449" y="-144316" z="-1520" heading="29964" respawnDelay="60" />
+		<npc id="32211" x="113343" y="218497" z="-3615" heading="45514" respawnDelay="60" />
+		<npc id="32209" x="113367" y="218528" z="-3615" heading="51707" respawnDelay="60" />
+		<npc id="32210" x="113407" y="218530" z="-3615" heading="49705" respawnDelay="60" />
+		<npc id="32212" x="113434" y="218498" z="-3615" heading="32768" respawnDelay="60" />
+		<npc id="32220" x="115888" y="79141" z="-2417" heading="55285" respawnDelay="60" />
+		<npc id="32218" x="115917" y="79194" z="-2417" heading="51210" respawnDelay="60" />
+		<npc id="32217" x="116064" y="79188" z="-2417" heading="49152" respawnDelay="60" />
+		<npc id="32219" x="116110" y="79155" z="-2417" heading="48470" respawnDelay="60" />
+		<npc id="32221" x="143904" y="22688" z="-2120" heading="4587" respawnDelay="60" />
+		<npc id="32222" x="143904" y="22736" z="-2120" heading="0" respawnDelay="60" />
+		<npc id="32223" x="143936" y="22672" z="-2120" heading="0" respawnDelay="60" />
+		<npc id="32224" x="143936" y="22752" z="-2120" heading="0" respawnDelay="60" />
+		<npc id="32227" x="151271" y="-55684" z="-2967" heading="46596" respawnDelay="60" />
+		<npc id="32228" x="151280" y="-55598" z="-2967" heading="45796" respawnDelay="60" />
+		<npc id="32225" x="151298" y="-55663" z="-2967" heading="27932" respawnDelay="60" />
+		<npc id="32226" x="151306" y="-55618" z="-2967" heading="36123" respawnDelay="60" />
+	</spawn>
+</list>
